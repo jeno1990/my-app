@@ -4,13 +4,11 @@ A real-time messaging application built with React Native and Expo, featuring us
 
 ## Screenshots
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="screenshots/image1.png" width="200" />
-  <img src="screenshots/image2.png" width="200" />
-  <img src="screenshots/image3.png" width="200" />
-  <img src="screenshots/image4.png" width="200" />
-  <img src="screenshots/image5.png" width="200" />
-</div>
+![Screenshot 1](screenshots/image1.png)
+![Screenshot 2](screenshots/image2.png)
+![Screenshot 3](screenshots/image3.png)
+![Screenshot 4](screenshots/image4.png)
+![Screenshot 5](screenshots/image5.png)
 
 ## Features
 
